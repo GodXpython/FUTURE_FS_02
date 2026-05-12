@@ -85,7 +85,7 @@ Deal closed → Status: CONVERTED ✅
 ## 👤 Author
 **Aman Shaikh**  
 Intern – Full Stack Web Development @ Future Interns  
-GitHub: [@yourusername](https://github.com/yourusername)  
+GitHub: [@GodXpython](https://github.com/GodXpython)  
 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
 
 ---
