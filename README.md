@@ -5,7 +5,7 @@
 ---
 
 ## 🔗 Live Demo
-> Deploy on GitHub Pages / Netlify / Vercel and paste your link here
+[> Deploy on GitHub Pages / Netlify / Vercel and paste your link here](https://godxpython.github.io/FUTURE_FS_02/)
 
 ## 📌 Task Overview
 Built a complete Client Lead Management System (Mini CRM) to track and manage leads generated from website contact forms, with full CRUD operations, status tracking, and note-taking functionality.
